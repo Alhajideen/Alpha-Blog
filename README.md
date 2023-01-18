@@ -1,24 +1,169 @@
-# README
+<a name="readme-top"></a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<!--
+HOW TO USE:
+This is an example of how you may give instructions on setting up your project locally.
 
-Things you may want to cover:
+Modify this file to match your project and remove sections that don't apply.
 
-* Ruby version
+REQUIRED SECTIONS:
+- Table of Contents
+- About the Project
+  - Built With
+  - Live Demo
+- Getting Started
+- Authors
+- Future Features
+- Contributing
+- Show your support
+- Acknowledgements
+- License
 
-* System dependencies
+After you're finished please remove all the comments and instructions!
+-->
 
-* Configuration
+<div align="center">
 
-* Database creation
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-* Database initialization
+  <h3><b>Microverse README Template</b></h3>
 
-* How to run the test suite
+</div>
 
-* Services (job queues, cache servers, search engines, etc.)
+<!-- TABLE OF CONTENTS -->
 
-* Deployment instructions
+# 📗 Table of Contents
 
-* ...
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Alpha-Blog] <a name="about-project"></a>
+
+> This is a simple blog application where you can do basic CRUD operations. This app is built with Ruby on Rails
+
+## 🛠 Built With <a name="built-with"></a>
+
+- Ruby on Rails
+- Rspec
+- Rubocop
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Console</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Ruby on Rails</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+Clone this repository to your desired folder:
+
+```
+  git clone https://github.com/Alhajideen/Alpha-Blog
+  cd Alpha-Blog
+```
+### Install
+
+Install the project dependencies with:
+
+```
+  bundle install
+```
+
+### Usage <a name="usage"></a>
+
+To run the project, execute the following command:
+
+```
+  rails s
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+```
+  rspec *_rspec.rb
+```
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+**Deen**
+
+- GitHub: [@Alhajideen](https://github.com/Alhajideen)
+- Twitter: [@twitterhandle](https://twitter.com/Alhaji_deen1)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nurudeen-salifu-776753244)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Alhajideen/Alpha-Blog/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://github.com/Alhajideen/Alpha-Blog/blob/dev/MIT.md) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
